@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Ball-Launcher/Temp/FSTimeGet-04329a76807b3cf4d90d14c4046a4f65
+Ball-Launcher/Temp/UnityLockfile
+Ball-Launcher/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/lld
+Ball-Launcher/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostwin/lld.exe
